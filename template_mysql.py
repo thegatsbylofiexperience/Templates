@@ -13,10 +13,7 @@ import MySQldb
 ######CONSTANTS######
 
 
-######FUNCTIONS######
-
-
-######CLASSES######
+######FUNCTIONS OR CLASSES######
 
 	
 ##$##MAIN##$##
