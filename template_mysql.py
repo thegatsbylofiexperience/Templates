@@ -4,7 +4,7 @@
 
 
 ######IMPORTS######
-import MySQldb
+import MySQLdb
 
 
 ######DIRECTORIES######
