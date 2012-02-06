@@ -7,8 +7,9 @@ I.e.
 
 */
 
-// Includes 
-#include 
+// Includes
+#include <iostream> 
+#include <string.h>
 
 //Constants
 
@@ -20,7 +21,8 @@ using namespace std;
 // Functions and Classes
 
 // ,.-/ Main \-.,
-int main (int argc, char *argv[]) 
+int main (int argc, char *argv[])
 {
+	cout << "hello!\n";
 	return 0;
 }

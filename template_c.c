@@ -8,7 +8,7 @@ I.e.
 */
 
 // Includes 
-#include 
+#include <stdio.h>
 
 //Constants
 
@@ -18,5 +18,6 @@ I.e.
 // ,.-/ Main \-.,
 int main (int argc, char *argv[]) 
 {
+	printf("Hello!\n");
 	return (0);
 }
