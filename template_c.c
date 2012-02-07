@@ -18,6 +18,6 @@ I.e.
 // ,.-/ Main \-.,
 int main (int argc, char *argv[]) 
 {
-	printf("Hello!\n");
+	printf("Hello!\n%i \n", argc);
 	return (0);
 }

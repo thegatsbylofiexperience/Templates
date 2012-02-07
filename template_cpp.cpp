@@ -23,6 +23,6 @@ using namespace std;
 // ,.-/ Main \-.,
 int main (int argc, char *argv[])
 {
-	cout << "hello!\n";
+	cout << "hello!\n" << argc << endl;
 	return 0;
 }
